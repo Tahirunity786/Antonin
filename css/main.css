@@ -1,0 +1,11 @@
+.padd{
+    padding-top: 0.2rem;
+    padding-bottom: 0.38rem;
+    padding-left: 0.6rem;
+    padding-right: 0.6rem;
+}
+.dropdown-menu[data-bs-popper] {
+    top: 100%;
+    left: -153px;
+    right: 0px;
+}
