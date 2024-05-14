@@ -9,3 +9,36 @@
     left: -153px;
     right: 0px;
 }
+
+.index-nav-label{
+    cursor: pointer;
+}
+
+.index-nav-input{
+    display: none;
+}
+
+.main-btn{
+    border-radius: 0px;
+}
+.main-div{
+    border: 1px solid white; height: 450px; margin-bottom: 10px;
+}
+
+.main-row-col{
+    border-radius: 0px; display: inline-block;
+}
+
+.main-row-col-close{
+    cursor: pointer;
+}
+
+.main-row{
+    margin-left: 0px !important; margin-right: 0px !important;
+}
+footer{
+    border-top: 2px solid white; height: 50px;
+}
+main{
+    height: 100%;
+}
